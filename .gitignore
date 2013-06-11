@@ -213,6 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+<<<<<<< HEAD
 
 #architect
 *.propath
+=======
+>>>>>>> 1fca63e0c561510496664c0e24ef9c2d299eff6e
